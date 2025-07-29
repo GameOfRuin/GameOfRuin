@@ -1,8 +1,7 @@
-<h1 align="center">Добро пожаловать 👋</h1>
-<h6 align="center">Welcome 👋</h6>
+<h1 align="center">Всех приветствую 🙋</h1>
+<h6 align="center">Welcome 🙋</h6>
 
 <p>
-    <img src="https://komarev.com/ghpvc/?username=mauzzz0&label=Profile%20views&color=0e75b6&style=flat" alt="mauzzz0" height="20" />
     <img src="https://badgen.net/badge/color/Открыт к предложениям/green?label=%D0%A1%D1%82%D0%B0%D1%82%D1%83%D1%81" alt="mauzzz0" height="20" />
 </p>
 <p>
@@ -14,22 +13,15 @@
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos" height="20" />
 </p>
 
-<h3><img src=".github/static/man-technologist.png" alt="Ruslan Semak" height="20" /> Ruslan | Senior Node.JS Backend Developer</h3>
-<li><img src=".github/static/sparkles.png" alt="Sparkles" height="14" /> Опыт работы <b>более 5 лет</b></li>
-<li><img src=".github/static/office.png" alt="Office" height="14" /> На данный момент работаю в <a href="https://mitgo.com/">Mitgo Group</a> (аффилированный маркетинг)</li>
-<li><img src=".github/static/handshake.png" alt="Handshake" height="14" /> Занимаюсь личным менторством <b>Node.JS разработчиков</b> - обучаю людей <b>с нуля до трудоустройства</b></li>
-
-<h6>English</h3>
-<li><img src=".github/static/sparkles.png" alt="Sparkles" height="14" /> Experienced <b>over 5 years</b></li>
-<li><img src=".github/static/office.png" alt="Office" height="14" /> Currently working at <a href="https://mitgo.com/">Mitgo Group</a> (affiliate marketing)</li>
-<li><img src=".github/static/handshake.png" alt="Handshake" height="14" /> Also private mentoring <b>Node.JS Developers</b> - teaching <b>from scratch to employment</b></li>
-
+<h3><img src=".github/static/man-technologist.png" alt="Anatoly Kochetov" height="20" /> Anatoly</h3>
+<h3>Middle Node.JS Backend Developer</h3>
+<li><img src=".github/static/sparkles.png" alt="Sparkles" height="14" /> Опыт работы <b>более 3 лет</b></li>
+<li><img src=".github/static/office.png" alt="Office" height="14" /> На данный момент ищу работу</li>
 
 <h3 align="left"><img src=".github/static/telephone.png" alt="Telephone" height="14" /> Contacts</h3>
 <p align="left">
-    <a href="https://t.me/mauzzz0" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40"/> </a>
-    <a href="https://hh.ru/resume/03dad281ff07e967650039ed1f7a3163335743" target="_blank" rel="noreferrer"> <img src="https://tech.hh.ru/api/logos/min-hh-red.png" alt="headhunter" width="40" height="40"/> </a>
-    <a href="https://www.linkedin.com/in/mauzzz0" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
+    <a href="https://t.me/gametyche" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40"/> </a>
+    <a href="https://hh.ru" target="_blank" rel="noreferrer"> <img src="https://tech.hh.ru/api/logos/min-hh-red.png" alt="headhunter" width="40" height="40"/> </a>
 </p>
 
 <h4 align="left">Languages and Tools</h4>
@@ -71,7 +63,6 @@
 </p>
 
 <h4 align="left">Stats</h4>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauzzz0&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="mauzzz0" /></p>
-<p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api?username=mauzzz0&show_icons=true&locale=en&theme=blue-green" alt="mauzzz0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GameofRuin&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="GameOfRuin" /></p>
 
 ###
